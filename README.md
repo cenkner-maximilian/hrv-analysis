@@ -8,7 +8,6 @@ This project analyzes my own HRV (Heart Rate Variability) readings off of my App
   • RESPIRATORY RATE<br>
   • VO₂MAX<br>
 
-📈 | Identify the average HRV throughout every month of all the observation years and plot them against themselves. Identify any trends, etc.<br>
 📉 | Identify Low-HRV and High-HRV month(s), find out if any of the measurements besides HRV were off the yearly average.<br>
 🔍 | Plot scatters to find out the following:<br>
   • Does daily HRV average tend to increase/decrease/stays the same if sleep is higher? 😴<br>
